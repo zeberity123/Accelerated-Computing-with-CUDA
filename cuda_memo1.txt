@@ -8,3 +8,5 @@ gpu에서 실행 -> <<<x, x>>>( )
 gpu에서 실행하는 함수 앞에 __global__
 
 gpu커널 이후 cudaDeviceSynchronize();적용
+
+https://blog.naver.com/ins_soul80
